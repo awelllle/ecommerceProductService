@@ -6,7 +6,7 @@ const expect = chai.expect;
 chai.use(chaiHttp);
 
 
- //assuming you're using port 3010 according to the env file. Please change to whichever port you're using
+ //assuming you're using port 3011 according to the env file. Please change to whichever port you're using
  //Also, please make sure your server is running on another terminal
  let url = "http://localhost:3011";
 
